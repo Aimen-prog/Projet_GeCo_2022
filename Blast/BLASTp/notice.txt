@@ -1,1 +1,4 @@
-aa
+codes_utilisés.txt :
+contains 4 command lines for blastp (petrotoga_mobilis vs target) resulting best hits comparaison : 30% minimum identity and 80% min coverage
+AAI.py :
+Script for calculating AVERAGE AMINO ACIDS IDENTITY based on BLASTp results
