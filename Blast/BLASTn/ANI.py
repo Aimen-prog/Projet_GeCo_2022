@@ -2,7 +2,7 @@ import pandas as pd
 
 
 """
-la longueur des bbh 
+Function to compute bbh length
 """""
 def cds_bbh_len (file, blastn_res_table):
     df = pd.read_csv(blastn_res_table, sep='\t')
@@ -29,7 +29,8 @@ def cds_bbh_len (file, blastn_res_table):
         return count
 
 """
-Fonction pour calculer ANI en utilisant les best hits
+EN:Function to calculate ANI using best hits only
+FR: Fonction pour calculer ANI en utilisant les best hits 
 """""
 def ANI (blastn_res_table, file) :
     df = pd.read_csv(blastn_res_table, sep='\t')
