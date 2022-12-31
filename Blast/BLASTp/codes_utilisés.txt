@@ -1,0 +1,13 @@
+blastp -query mobilis_protein.faa -subject halophila_protein.faa -num_threads 8 -qcov_hsp_perc 80 -outfmt "6 qacc sallseqid evalue bitscore pident length qcovs qend sstart send saccver" -out blast_mobilis_halophila.csv
+
+blastp -query mobilis_protein.faa -subject miotherma_protein.faa -num_threads 8 -qcov_hsp_perc 80 -outfmt "6 qacc sallseqid evalue bitscore pident length qcovs qend sstart send saccver" -out blast_mobilis_miotherma.csv
+
+
+blastp -query mobilis_protein.faa -subject piezophila_protein.faa -num_threads 8 -qcov_hsp_perc 80 -outfmt "6 qacc sallseqid evalue bitscore pident length qcovs qend sstart send saccver" -out blast_mobilis_piezo.csv
+
+blastp -query mobilis_protein.faa -subject hydro_protein.faa -num_threads 8 -qcov_hsp_perc 80 -outfmt "6 qacc sallseqid evalue bitscore pident length qcovs qend sstart send saccver" -out blast_mobilis_hydro.csv
+
+
+
+
+
