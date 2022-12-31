@@ -1,0 +1,11 @@
+blastn -query mobilis_cds_from_genomic.fna -subject halophila_cds_from_genomic.fna -num_threads 8 -perc_identity 70 -qcov_hsp_perc 70 -outfmt "6 qacc sallseqid evalue bitscore pident length qcovs qend sstart send saccver" -out blast_mobilis_halophila.csv
+
+blastn -query mobilis_cds_from_genomic.fna -subject miotherma_cds_from_genomic.fna -num_threads 8 -perc_identity 70 -qcov_hsp_perc 70 -outfmt "6 qacc sallseqid evalue bitscore pident length qcovs qend sstart send saccver" -out blast_mobilis_miotherma.csv
+
+
+blastn -query mobilis_cds_from_genomic.fna -subject piezophila_cds_from_genomic.fna -num_threads 8 -perc_identity 70 -qcov_hsp_perc 70 -outfmt "6 qacc sallseqid evalue bitscore pident length qcovs qend sstart send saccver" -out blast_mobilis_piezo.csv
+
+blastn -query mobilis_cds_from_genomic.fna  -subject hydro_cds_from_genomic.fna -num_threads 8 -perc_identity 70 -qcov_hsp_perc 70 -outfmt "6 qacc sallseqid evalue bitscore pident length qcovs qend sstart send saccver" -out blast_mobilis_hydro.csv
+
+
+
