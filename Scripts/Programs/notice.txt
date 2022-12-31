@@ -1,1 +1,1 @@
-feature tables available here to simplify path
+feature tables available here to simplify path, this directory is dedicated for genomic signature analyses
