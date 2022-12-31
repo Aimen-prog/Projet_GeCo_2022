@@ -1,1 +1,4 @@
-dsds
+codes_utilisés.txt :
+contains 4 command lines for blastn (petrotoga_mobilis vs target) resulting best hits comparaison : 70% minimum identity and 70% min coverage
+ANI.py :
+Script for calculating AVERAGE NUCLEOTID IDENTITY based on blastn results
