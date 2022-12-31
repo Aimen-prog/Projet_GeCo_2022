@@ -1,0 +1,117 @@
+# Assembly name:  IMG-taxon 2585428042 annotated assembly
+# Organism name:  Marinitoga hydrogenitolerans DSM 16785 (bacteria)
+# Infraspecific name:  strain=DSM 16785
+# Taxid:          1122195
+# BioSample:      SAMN02745164
+# BioProject:     PRJEB18165
+# Submitter:      DOE - JOINT GENOME INSTITUTE
+# Date:           2016-12-03
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Scaffold
+# Genome representation: full
+# WGS project:    FQUI01
+# Genome coverage: 602x
+# Relation to type material: assembly from type material
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_900129175.1
+# RefSeq assembly accession: GCF_900129175.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_900129174.1	GCF_900129174.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+contig86	unplaced-scaffold	na	na	FQUI01000086.1	=	NZ_FQUI01000086.1	Primary Assembly	1138	na
+contig80	unplaced-scaffold	na	na	FQUI01000080.1	=	NZ_FQUI01000080.1	Primary Assembly	1877	na
+contig78	unplaced-scaffold	na	na	FQUI01000078.1	=	NZ_FQUI01000078.1	Primary Assembly	2280	na
+contig76	unplaced-scaffold	na	na	FQUI01000076.1	=	NZ_FQUI01000076.1	Primary Assembly	3105	na
+contig73	unplaced-scaffold	na	na	FQUI01000073.1	=	NZ_FQUI01000073.1	Primary Assembly	3539	na
+contig72	unplaced-scaffold	na	na	FQUI01000072.1	=	NZ_FQUI01000072.1	Primary Assembly	3877	na
+contig71	unplaced-scaffold	na	na	FQUI01000071.1	=	NZ_FQUI01000071.1	Primary Assembly	5170	na
+contig68	unplaced-scaffold	na	na	FQUI01000068.1	=	NZ_FQUI01000068.1	Primary Assembly	5410	na
+contig66	unplaced-scaffold	na	na	FQUI01000066.1	=	NZ_FQUI01000066.1	Primary Assembly	5911	na
+contig65	unplaced-scaffold	na	na	FQUI01000065.1	=	NZ_FQUI01000065.1	Primary Assembly	6395	na
+contig74	unplaced-scaffold	na	na	FQUI01000074.1	=	NZ_FQUI01000074.1	Primary Assembly	3444	na
+contig64	unplaced-scaffold	na	na	FQUI01000064.1	=	NZ_FQUI01000064.1	Primary Assembly	6695	na
+contig62	unplaced-scaffold	na	na	FQUI01000062.1	=	NZ_FQUI01000062.1	Primary Assembly	6890	na
+contig84	unplaced-scaffold	na	na	FQUI01000084.1	=	NZ_FQUI01000084.1	Primary Assembly	1212	na
+contig61	unplaced-scaffold	na	na	FQUI01000061.1	=	NZ_FQUI01000061.1	Primary Assembly	7168	na
+contig59	unplaced-scaffold	na	na	FQUI01000059.1	=	NZ_FQUI01000059.1	Primary Assembly	7861	na
+contig57	unplaced-scaffold	na	na	FQUI01000057.1	=	NZ_FQUI01000057.1	Primary Assembly	10369	na
+contig56	unplaced-scaffold	na	na	FQUI01000056.1	=	NZ_FQUI01000056.1	Primary Assembly	10585	na
+contig55	unplaced-scaffold	na	na	FQUI01000055.1	=	NZ_FQUI01000055.1	Primary Assembly	13178	na
+contig79	unplaced-scaffold	na	na	FQUI01000079.1	=	NZ_FQUI01000079.1	Primary Assembly	1906	na
+contig54	unplaced-scaffold	na	na	FQUI01000054.1	=	NZ_FQUI01000054.1	Primary Assembly	13193	na
+contig53	unplaced-scaffold	na	na	FQUI01000053.1	=	NZ_FQUI01000053.1	Primary Assembly	13998	na
+contig50	unplaced-scaffold	na	na	FQUI01000050.1	=	NZ_FQUI01000050.1	Primary Assembly	15145	na
+contig49	unplaced-scaffold	na	na	FQUI01000049.1	=	NZ_FQUI01000049.1	Primary Assembly	15168	na
+contig47	unplaced-scaffold	na	na	FQUI01000047.1	=	NZ_FQUI01000047.1	Primary Assembly	15388	na
+contig20	unplaced-scaffold	na	na	FQUI01000020.1	=	NZ_FQUI01000020.1	Primary Assembly	37034	na
+contig85	unplaced-scaffold	na	na	FQUI01000085.1	=	NZ_FQUI01000085.1	Primary Assembly	1163	na
+contig75	unplaced-scaffold	na	na	FQUI01000075.1	=	NZ_FQUI01000075.1	Primary Assembly	3145	na
+contig48	unplaced-scaffold	na	na	FQUI01000048.1	=	NZ_FQUI01000048.1	Primary Assembly	15427	na
+contig34	unplaced-scaffold	na	na	FQUI01000034.1	=	NZ_FQUI01000034.1	Primary Assembly	25300	na
+contig19	unplaced-scaffold	na	na	FQUI01000019.1	=	NZ_FQUI01000019.1	Primary Assembly	38179	na
+contig18	unplaced-scaffold	na	na	FQUI01000018.1	=	NZ_FQUI01000018.1	Primary Assembly	38300	na
+contig82	unplaced-scaffold	na	na	FQUI01000082.1	=	NZ_FQUI01000082.1	Primary Assembly	1468	na
+contig16	unplaced-scaffold	na	na	FQUI01000016.1	=	NZ_FQUI01000016.1	Primary Assembly	46289	na
+contig12	unplaced-scaffold	na	na	FQUI01000012.1	=	NZ_FQUI01000012.1	Primary Assembly	51986	na
+contig51	unplaced-scaffold	na	na	FQUI01000051.1	=	NZ_FQUI01000051.1	Primary Assembly	14869	na
+contig40	unplaced-scaffold	na	na	FQUI01000040.1	=	NZ_FQUI01000040.1	Primary Assembly	20809	na
+contig6	unplaced-scaffold	na	na	FQUI01000006.1	=	NZ_FQUI01000006.1	Primary Assembly	87039	na
+contig10	unplaced-scaffold	na	na	FQUI01000010.1	=	NZ_FQUI01000010.1	Primary Assembly	57882	na
+contig41	unplaced-scaffold	na	na	FQUI01000041.1	=	NZ_FQUI01000041.1	Primary Assembly	20608	na
+contig11	unplaced-scaffold	na	na	FQUI01000011.1	=	NZ_FQUI01000011.1	Primary Assembly	54344	na
+contig29	unplaced-scaffold	na	na	FQUI01000029.1	=	NZ_FQUI01000029.1	Primary Assembly	28491	na
+contig21	unplaced-scaffold	na	na	FQUI01000021.1	=	NZ_FQUI01000021.1	Primary Assembly	36287	na
+contig2	unplaced-scaffold	na	na	FQUI01000002.1	=	NZ_FQUI01000002.1	Primary Assembly	116338	na
+contig31	unplaced-scaffold	na	na	FQUI01000031.1	=	NZ_FQUI01000031.1	Primary Assembly	27670	na
+contig70	unplaced-scaffold	na	na	FQUI01000070.1	=	NZ_FQUI01000070.1	Primary Assembly	5329	na
+contig43	unplaced-scaffold	na	na	FQUI01000043.1	=	NZ_FQUI01000043.1	Primary Assembly	16913	na
+contig15	unplaced-scaffold	na	na	FQUI01000015.1	=	NZ_FQUI01000015.1	Primary Assembly	46419	na
+contig83	unplaced-scaffold	na	na	FQUI01000083.1	=	NZ_FQUI01000083.1	Primary Assembly	1262	na
+contig3	unplaced-scaffold	na	na	FQUI01000003.1	=	NZ_FQUI01000003.1	Primary Assembly	103216	na
+contig5	unplaced-scaffold	na	na	FQUI01000005.1	=	NZ_FQUI01000005.1	Primary Assembly	91353	na
+contig1	unplaced-scaffold	na	na	FQUI01000001.1	=	NZ_FQUI01000001.1	Primary Assembly	173515	na
+contig7	unplaced-scaffold	na	na	FQUI01000007.1	=	NZ_FQUI01000007.1	Primary Assembly	73038	na
+contig4	unplaced-scaffold	na	na	FQUI01000004.1	=	NZ_FQUI01000004.1	Primary Assembly	96092	na
+contig14	unplaced-scaffold	na	na	FQUI01000014.1	=	NZ_FQUI01000014.1	Primary Assembly	46839	na
+contig17	unplaced-scaffold	na	na	FQUI01000017.1	=	NZ_FQUI01000017.1	Primary Assembly	39257	na
+contig25	unplaced-scaffold	na	na	FQUI01000025.1	=	NZ_FQUI01000025.1	Primary Assembly	32802	na
+contig9	unplaced-scaffold	na	na	FQUI01000009.1	=	NZ_FQUI01000009.1	Primary Assembly	59258	na
+contig22	unplaced-scaffold	na	na	FQUI01000022.1	=	NZ_FQUI01000022.1	Primary Assembly	36104	na
+contig8	unplaced-scaffold	na	na	FQUI01000008.1	=	NZ_FQUI01000008.1	Primary Assembly	59358	na
+contig28	unplaced-scaffold	na	na	FQUI01000028.1	=	NZ_FQUI01000028.1	Primary Assembly	29153	na
+contig67	unplaced-scaffold	na	na	FQUI01000067.1	=	NZ_FQUI01000067.1	Primary Assembly	5656	na
+contig23	unplaced-scaffold	na	na	FQUI01000023.1	=	NZ_FQUI01000023.1	Primary Assembly	35560	na
+contig24	unplaced-scaffold	na	na	FQUI01000024.1	=	NZ_FQUI01000024.1	Primary Assembly	33891	na
+contig45	unplaced-scaffold	na	na	FQUI01000045.1	=	NZ_FQUI01000045.1	Primary Assembly	16307	na
+contig26	unplaced-scaffold	na	na	FQUI01000026.1	=	NZ_FQUI01000026.1	Primary Assembly	32729	na
+contig52	unplaced-scaffold	na	na	FQUI01000052.1	=	NZ_FQUI01000052.1	Primary Assembly	14372	na
+contig27	unplaced-scaffold	na	na	FQUI01000027.1	=	NZ_FQUI01000027.1	Primary Assembly	30428	na
+contig63	unplaced-scaffold	na	na	FQUI01000063.1	=	NZ_FQUI01000063.1	Primary Assembly	6922	na
+contig30	unplaced-scaffold	na	na	FQUI01000030.1	=	NZ_FQUI01000030.1	Primary Assembly	28201	na
+contig60	unplaced-scaffold	na	na	FQUI01000060.1	=	NZ_FQUI01000060.1	Primary Assembly	7636	na
+contig39	unplaced-scaffold	na	na	FQUI01000039.1	=	NZ_FQUI01000039.1	Primary Assembly	21607	na
+contig81	unplaced-scaffold	na	na	FQUI01000081.1	=	NZ_FQUI01000081.1	Primary Assembly	1763	na
+contig69	unplaced-scaffold	na	na	FQUI01000069.1	=	NZ_FQUI01000069.1	Primary Assembly	5402	na
+contig46	unplaced-scaffold	na	na	FQUI01000046.1	=	NZ_FQUI01000046.1	Primary Assembly	16158	na
+contig87	unplaced-scaffold	na	na	FQUI01000087.1	=	NZ_FQUI01000087.1	Primary Assembly	1133	na
+contig58	unplaced-scaffold	na	na	FQUI01000058.1	=	NZ_FQUI01000058.1	Primary Assembly	8683	na
+contig32	unplaced-scaffold	na	na	FQUI01000032.1	=	NZ_FQUI01000032.1	Primary Assembly	27814	na
+contig33	unplaced-scaffold	na	na	FQUI01000033.1	=	NZ_FQUI01000033.1	Primary Assembly	27351	na
+contig35	unplaced-scaffold	na	na	FQUI01000035.1	=	NZ_FQUI01000035.1	Primary Assembly	22668	na
+contig36	unplaced-scaffold	na	na	FQUI01000036.1	=	NZ_FQUI01000036.1	Primary Assembly	22605	na
+contig37	unplaced-scaffold	na	na	FQUI01000037.1	=	NZ_FQUI01000037.1	Primary Assembly	22318	na
+contig77	unplaced-scaffold	na	na	FQUI01000077.1	=	NZ_FQUI01000077.1	Primary Assembly	2799	na
+contig13	unplaced-scaffold	na	na	FQUI01000013.1	=	NZ_FQUI01000013.1	Primary Assembly	48991	na
+contig38	unplaced-scaffold	na	na	FQUI01000038.1	=	NZ_FQUI01000038.1	Primary Assembly	22289	na
+contig42	unplaced-scaffold	na	na	FQUI01000042.1	=	NZ_FQUI01000042.1	Primary Assembly	19157	na
+contig44	unplaced-scaffold	na	na	FQUI01000044.1	=	NZ_FQUI01000044.1	Primary Assembly	16489	na
