@@ -1,0 +1,98 @@
+# Assembly name:  ASM289560v1
+# Organism name:  Petrotoga miotherma DSM 10691 (bacteria)
+# Infraspecific name:  strain=DSM 10691
+# Taxid:          1434326
+# BioSample:      SAMN07817522
+# BioProject:     PRJNA230893
+# Submitter:      University of Alberta
+# Date:           2018-01-23
+# Assembly type:  na
+# Release type:   major
+# Assembly level: Contig
+# Genome representation: full
+# WGS project:    AZRM01
+# Assembly method: CLC NGS Cell v. 6.6
+# Expected final version: no
+# Genome coverage: 200.0x
+# Sequencing technology: Illumina MiSeq
+# Relation to type material: assembly from type material
+# RefSeq category: Representative Genome
+# GenBank assembly accession: GCA_002895605.1
+# RefSeq assembly accession: GCF_002895605.1
+# RefSeq assembly and GenBank assemblies identical: yes
+#
+## Assembly-Units:
+## GenBank Unit Accession	RefSeq Unit Accession	Assembly-Unit name
+## GCA_002895625.1	GCF_002895625.1	Primary Assembly
+#
+# Ordered by chromosome/plasmid; the chromosomes/plasmids are followed by
+# unlocalized scaffolds.
+# Unplaced scaffolds are listed at the end.
+# RefSeq is equal or derived from GenBank object.
+#
+# Sequence-Name	Sequence-Role	Assigned-Molecule	Assigned-Molecule-Location/Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Sequence-Length	UCSC-style-name
+P._miotherma_contig_1	unplaced-scaffold	na	na	AZRM01000001.1	=	NZ_AZRM01000001.1	Primary Assembly	3704	na
+P._miotherma_contig_10	unplaced-scaffold	na	na	AZRM01000002.1	=	NZ_AZRM01000002.1	Primary Assembly	10634	na
+P._miotherma_contig_11	unplaced-scaffold	na	na	AZRM01000003.1	=	NZ_AZRM01000003.1	Primary Assembly	49528	na
+P._miotherma_contig_12	unplaced-scaffold	na	na	AZRM01000004.1	=	NZ_AZRM01000004.1	Primary Assembly	41430	na
+P._miotherma_contig_13	unplaced-scaffold	na	na	AZRM01000005.1	=	NZ_AZRM01000005.1	Primary Assembly	68803	na
+P._miotherma_contig_14	unplaced-scaffold	na	na	AZRM01000006.1	=	NZ_AZRM01000006.1	Primary Assembly	14689	na
+P._miotherma_contig_15	unplaced-scaffold	na	na	AZRM01000007.1	=	NZ_AZRM01000007.1	Primary Assembly	79619	na
+P._miotherma_contig_16	unplaced-scaffold	na	na	AZRM01000008.1	=	NZ_AZRM01000008.1	Primary Assembly	10874	na
+P._miotherma_contig_17	unplaced-scaffold	na	na	AZRM01000009.1	=	NZ_AZRM01000009.1	Primary Assembly	108845	na
+P._miotherma_contig_18	unplaced-scaffold	na	na	AZRM01000010.1	=	NZ_AZRM01000010.1	Primary Assembly	97395	na
+P._miotherma_contig_19	unplaced-scaffold	na	na	AZRM01000011.1	=	NZ_AZRM01000011.1	Primary Assembly	67033	na
+P._miotherma_contig_2	unplaced-scaffold	na	na	AZRM01000012.1	=	NZ_AZRM01000012.1	Primary Assembly	51910	na
+P._miotherma_contig_20	unplaced-scaffold	na	na	AZRM01000013.1	=	NZ_AZRM01000013.1	Primary Assembly	11787	na
+P._miotherma_contig_21	unplaced-scaffold	na	na	AZRM01000014.1	=	NZ_AZRM01000014.1	Primary Assembly	49316	na
+P._miotherma_contig_22	unplaced-scaffold	na	na	AZRM01000015.1	=	NZ_AZRM01000015.1	Primary Assembly	51853	na
+P._miotherma_contig_23	unplaced-scaffold	na	na	AZRM01000016.1	=	NZ_AZRM01000016.1	Primary Assembly	58878	na
+P._miotherma_contig_24	unplaced-scaffold	na	na	AZRM01000017.1	=	NZ_AZRM01000017.1	Primary Assembly	56070	na
+P._miotherma_contig_25	unplaced-scaffold	na	na	AZRM01000018.1	=	NZ_AZRM01000018.1	Primary Assembly	21746	na
+P._miotherma_contig_26	unplaced-scaffold	na	na	AZRM01000019.1	=	NZ_AZRM01000019.1	Primary Assembly	15936	na
+P._miotherma_contig_27	unplaced-scaffold	na	na	AZRM01000020.1	=	NZ_AZRM01000020.1	Primary Assembly	25444	na
+P._miotherma_contig_28	unplaced-scaffold	na	na	AZRM01000021.1	=	NZ_AZRM01000021.1	Primary Assembly	34193	na
+P._miotherma_contig_29	unplaced-scaffold	na	na	AZRM01000022.1	=	NZ_AZRM01000022.1	Primary Assembly	4751	na
+P._miotherma_contig_3	unplaced-scaffold	na	na	AZRM01000023.1	=	NZ_AZRM01000023.1	Primary Assembly	93808	na
+P._miotherma_contig_30	unplaced-scaffold	na	na	AZRM01000024.1	=	NZ_AZRM01000024.1	Primary Assembly	16080	na
+P._miotherma_contig_31	unplaced-scaffold	na	na	AZRM01000025.1	=	NZ_AZRM01000025.1	Primary Assembly	68733	na
+P._miotherma_contig_32	unplaced-scaffold	na	na	AZRM01000026.1	=	NZ_AZRM01000026.1	Primary Assembly	91449	na
+P._miotherma_contig_33	unplaced-scaffold	na	na	AZRM01000027.1	=	NZ_AZRM01000027.1	Primary Assembly	77477	na
+P._miotherma_contig_34	unplaced-scaffold	na	na	AZRM01000028.1	=	NZ_AZRM01000028.1	Primary Assembly	12760	na
+P._miotherma_contig_35	unplaced-scaffold	na	na	AZRM01000029.1	=	NZ_AZRM01000029.1	Primary Assembly	51970	na
+P._miotherma_contig_36	unplaced-scaffold	na	na	AZRM01000030.1	=	NZ_AZRM01000030.1	Primary Assembly	36780	na
+P._miotherma_contig_37	unplaced-scaffold	na	na	AZRM01000031.1	=	NZ_AZRM01000031.1	Primary Assembly	40361	na
+P._miotherma_contig_38	unplaced-scaffold	na	na	AZRM01000032.1	=	NZ_AZRM01000032.1	Primary Assembly	7080	na
+P._miotherma_contig_39	unplaced-scaffold	na	na	AZRM01000033.1	=	NZ_AZRM01000033.1	Primary Assembly	1603	na
+P._miotherma_contig_4	unplaced-scaffold	na	na	AZRM01000034.1	=	NZ_AZRM01000034.1	Primary Assembly	49577	na
+P._miotherma_contig_40	unplaced-scaffold	na	na	AZRM01000035.1	=	NZ_AZRM01000035.1	Primary Assembly	29549	na
+P._miotherma_contig_41	unplaced-scaffold	na	na	AZRM01000036.1	=	NZ_AZRM01000036.1	Primary Assembly	42665	na
+P._miotherma_contig_42	unplaced-scaffold	na	na	AZRM01000037.1	=	NZ_AZRM01000037.1	Primary Assembly	51472	na
+P._miotherma_contig_43	unplaced-scaffold	na	na	AZRM01000038.1	=	NZ_AZRM01000038.1	Primary Assembly	11177	na
+P._miotherma_contig_44	unplaced-scaffold	na	na	AZRM01000039.1	=	NZ_AZRM01000039.1	Primary Assembly	23544	na
+P._miotherma_contig_45	unplaced-scaffold	na	na	AZRM01000040.1	=	NZ_AZRM01000040.1	Primary Assembly	21450	na
+P._miotherma_contig_46	unplaced-scaffold	na	na	AZRM01000041.1	=	NZ_AZRM01000041.1	Primary Assembly	1734	na
+P._miotherma_contig_47	unplaced-scaffold	na	na	AZRM01000042.1	=	NZ_AZRM01000042.1	Primary Assembly	14096	na
+P._miotherma_contig_48	unplaced-scaffold	na	na	AZRM01000043.1	=	NZ_AZRM01000043.1	Primary Assembly	13057	na
+P._miotherma_contig_49	unplaced-scaffold	na	na	AZRM01000044.1	=	NZ_AZRM01000044.1	Primary Assembly	1182	na
+P._miotherma_contig_5	unplaced-scaffold	na	na	AZRM01000045.1	=	NZ_AZRM01000045.1	Primary Assembly	118326	na
+P._miotherma_contig_50	unplaced-scaffold	na	na	AZRM01000046.1	=	NZ_AZRM01000046.1	Primary Assembly	14594	na
+P._miotherma_contig_51	unplaced-scaffold	na	na	AZRM01000047.1	=	NZ_AZRM01000047.1	Primary Assembly	3564	na
+P._miotherma_contig_52	unplaced-scaffold	na	na	AZRM01000048.1	=	NZ_AZRM01000048.1	Primary Assembly	15723	na
+P._miotherma_contig_53	unplaced-scaffold	na	na	AZRM01000049.1	=	NZ_AZRM01000049.1	Primary Assembly	2275	na
+P._miotherma_contig_54	unplaced-scaffold	na	na	AZRM01000050.1	=	NZ_AZRM01000050.1	Primary Assembly	8383	na
+P._miotherma_contig_55	unplaced-scaffold	na	na	AZRM01000051.1	=	NZ_AZRM01000051.1	Primary Assembly	7169	na
+P._miotherma_contig_56	unplaced-scaffold	na	na	AZRM01000052.1	=	NZ_AZRM01000052.1	Primary Assembly	1512	na
+P._miotherma_contig_57	unplaced-scaffold	na	na	AZRM01000053.1	=	NZ_AZRM01000053.1	Primary Assembly	3816	na
+P._miotherma_contig_58	unplaced-scaffold	na	na	AZRM01000054.1	=	NZ_AZRM01000054.1	Primary Assembly	2640	na
+P._miotherma_contig_59	unplaced-scaffold	na	na	AZRM01000055.1	=	NZ_AZRM01000055.1	Primary Assembly	5552	na
+P._miotherma_contig_6	unplaced-scaffold	na	na	AZRM01000056.1	=	NZ_AZRM01000056.1	Primary Assembly	52170	na
+P._miotherma_contig_60	unplaced-scaffold	na	na	AZRM01000057.1	=	NZ_AZRM01000057.1	Primary Assembly	3125	na
+P._miotherma_contig_61	unplaced-scaffold	na	na	AZRM01000058.1	=	NZ_AZRM01000058.1	Primary Assembly	1062	na
+P._miotherma_contig_62	unplaced-scaffold	na	na	AZRM01000059.1	=	NZ_AZRM01000059.1	Primary Assembly	1589	na
+P._miotherma_contig_63	unplaced-scaffold	na	na	AZRM01000060.1	=	NZ_AZRM01000060.1	Primary Assembly	1199	na
+P._miotherma_contig_64	unplaced-scaffold	na	na	AZRM01000061.1	=	NZ_AZRM01000061.1	Primary Assembly	2563	na
+P._miotherma_contig_65	unplaced-scaffold	na	na	AZRM01000062.1	=	NZ_AZRM01000062.1	Primary Assembly	1158	na
+P._miotherma_contig_7	unplaced-scaffold	na	na	AZRM01000063.1	=	NZ_AZRM01000063.1	Primary Assembly	42831	na
+P._miotherma_contig_8	unplaced-scaffold	na	na	AZRM01000064.1	=	NZ_AZRM01000064.1	Primary Assembly	59325	na
+P._miotherma_contig_9	unplaced-scaffold	na	na	AZRM01000065.1	=	NZ_AZRM01000065.1	Primary Assembly	66472	na
