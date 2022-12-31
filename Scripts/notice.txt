@@ -1,1 +1,3 @@
-Scripts section
+Scripts section :
+This directory : a script for analyzing eggnog mapper file
+PROGRAMS directory : genomic signature  analyses scripts
