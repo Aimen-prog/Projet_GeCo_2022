@@ -21,6 +21,7 @@ Un dossier nommé "cog ncbi result" contenant le résultat de cog pour la bacté
  <br>
 - Le dossier nommé "BLASTn" contient les fichiers cds_from_genomic.fasta de chaque espèces (origine: FTP) et qui vont servir à la réalisation d'un blastn en ligne de commande (70% id min et 70% min coverage) pour chacunes d'entre elles + calcul de l'ANI (fichier ANI.py) <br>
 - Le dossier nommé "BLASTp" contient les fichiers protein.fasta (origine: FTP) de chaque espèces et qui vont servir à la réalisation d'un blastp en ligne de commande (30% id min et 80% min coverage) pour chacunes d'entre elles + calcul de l'AAI cette fois-ci (fichier AAI.py) </p>
+<b>IMPORTANT :</b> codes_utilisés.txt dans chaque dossier contient les lignes de commandes nécessaires pour cette partie.
 <hr>
 <b>Dossier "OrthoVenn_res_files" :</b>
 <p>Ce dossier contient les resultats de sortie de l'outil orthovenn2 en images : résumé (fichier : "summary.png"), tableau récapitulatif des clusters (fichier : "allclusters.png") et le diagramme de Venn (fichier : "JVenn_chart.png")</p>
